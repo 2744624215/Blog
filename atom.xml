@@ -3,11 +3,11 @@
   <title>LogBlog</title>
   
   <subtitle>日志博客</subtitle>
-  <link href="/Blog/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https://2744624215.github.io/"/>
+  <link href="https://2744624215.github.io/Blog/"/>
   <updated>2017-10-03T06:29:56.015Z</updated>
-  <id>https://2744624215.github.io/</id>
+  <id>https://2744624215.github.io/Blog/</id>
   
   <author>
     <name>刘斌</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Node介绍</title>
-    <link href="https://2744624215.github.io/2016/11/09/angular%E7%AC%AC%E4%B8%80%E5%A4%A9%E7%AC%94%E8%AE%B0/"/>
-    <id>https://2744624215.github.io/2016/11/09/angular第一天笔记/</id>
+    <link href="https://2744624215.github.io/Blog/2016/11/09/angular%E7%AC%AC%E4%B8%80%E5%A4%A9%E7%AC%94%E8%AE%B0/"/>
+    <id>https://2744624215.github.io/Blog/2016/11/09/angular第一天笔记/</id>
     <published>2016-11-08T16:00:00.000Z</published>
     <updated>2017-10-03T06:29:56.015Z</updated>
     
@@ -42,23 +42,23 @@
     
     </summary>
     
-      <category term="Node" scheme="https://2744624215.github.io/categories/Node/"/>
+      <category term="Node" scheme="https://2744624215.github.io/Blog/categories/Node/"/>
     
     
-      <category term="npm" scheme="https://2744624215.github.io/tags/npm/"/>
+      <category term="npm" scheme="https://2744624215.github.io/Blog/tags/npm/"/>
     
-      <category term="hexo" scheme="https://2744624215.github.io/tags/hexo/"/>
+      <category term="hexo" scheme="https://2744624215.github.io/Blog/tags/hexo/"/>
     
-      <category term="github" scheme="https://2744624215.github.io/tags/github/"/>
+      <category term="github" scheme="https://2744624215.github.io/Blog/tags/github/"/>
     
-      <category term="Node" scheme="https://2744624215.github.io/tags/Node/"/>
+      <category term="Node" scheme="https://2744624215.github.io/Blog/tags/Node/"/>
     
   </entry>
   
   <entry>
     <title>Git入门</title>
-    <link href="https://2744624215.github.io/2016/11/09/angular%E7%AC%AC%E4%BA%8C%E5%A4%A9%E7%AC%94%E8%AE%B0/"/>
-    <id>https://2744624215.github.io/2016/11/09/angular第二天笔记/</id>
+    <link href="https://2744624215.github.io/Blog/2016/11/09/angular%E7%AC%AC%E4%BA%8C%E5%A4%A9%E7%AC%94%E8%AE%B0/"/>
+    <id>https://2744624215.github.io/Blog/2016/11/09/angular第二天笔记/</id>
     <published>2016-11-08T16:00:00.000Z</published>
     <updated>2017-10-03T06:29:51.997Z</updated>
     
@@ -83,14 +83,14 @@
     
     </summary>
     
-      <category term="Git" scheme="https://2744624215.github.io/categories/Git/"/>
+      <category term="Git" scheme="https://2744624215.github.io/Blog/categories/Git/"/>
     
     
-      <category term="npm" scheme="https://2744624215.github.io/tags/npm/"/>
+      <category term="npm" scheme="https://2744624215.github.io/Blog/tags/npm/"/>
     
-      <category term="hexo" scheme="https://2744624215.github.io/tags/hexo/"/>
+      <category term="hexo" scheme="https://2744624215.github.io/Blog/tags/hexo/"/>
     
-      <category term="github" scheme="https://2744624215.github.io/tags/github/"/>
+      <category term="github" scheme="https://2744624215.github.io/Blog/tags/github/"/>
     
   </entry>
   
