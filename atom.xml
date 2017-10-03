@@ -3,7 +3,7 @@
   <title>LogBlog</title>
   
   <subtitle>日志博客</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/Blog/atom.xml" rel="self"/>
   
   <link href="https://2744624215.github.io/Blog/"/>
   <updated>2017-10-03T06:29:56.015Z</updated>
